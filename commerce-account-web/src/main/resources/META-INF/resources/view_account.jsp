@@ -154,7 +154,7 @@ portletURL.setParameter("mvcRenderCommandName", "viewCommerceAccount");
 					</a>
 					<%--analytics cloud svg--%>
 
-					<a href="https://demo-3.liferay.com/workspace/32708/contacts/accounts/AWOTvH54Bv3Ji4ke4x5g" style="text-decoration:none;">
+					<a href="http://localhost:8081/workspace/32708/contacts/accounts/AWOTvH54Bv3Ji4ke4x5g" style="text-decoration:none;">
 						<svg width="201" height="189" viewBox="0 0 201 189" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<g filter="url(#filter0_d)">
 								<rect x="33" width="135" height="123" rx="8" fill="#26262D"/>
